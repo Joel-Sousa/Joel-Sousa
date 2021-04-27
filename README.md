@@ -11,17 +11,11 @@
 
 [<img width="30px" height="30px" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"/>][linkedin]
 
-[<img width="30px" height="30px" align="left" alt="marco | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" title="FaceBook"/>][facebook]
-
-[<img width="30px" height="30px" align="left" alt="marco | Instagran" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram"/>][instagram]
-
 [<img width="30px" height="30px" align="left" alt="marco | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" title="Dev"/>][dev]
 
 [<img width="30px" height="30px" align="left" alt="marco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="Portifolio"/>][github]
 
 [linkedin]: https://www.linkedin.com/in/joel-sousa-173745179/
-[facebook]: https://www.facebook.com/JoelSousa95
-[instagram]: https://www.instagram.com/joe.sousa_/?hl=pt-br
 [gmail]: mailto:joelfsousa95@gmail.com
 [dev]: https://dev.to/joelsousa
 [github]: https://github.com/Joel-Sousa?tab=repositories
