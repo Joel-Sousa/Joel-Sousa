@@ -7,13 +7,13 @@
 -->
 ## Essas são minhas redes:
 
-[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>][gmail]
+[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"  target="_blank"/>][gmail] 
 
-[<img width="30px" height="30px" target="_blank" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"/>][linkedin]
+[<img width="30px" height="30px" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"  target="_blank" />][linkedin]
 
-[<img width="30px" height="30px" align="left" alt="marco | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" title="Dev"/>][dev]
+[<img width="30px" height="30px" align="left" alt="marco | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" title="Dev"  target="_blank"/>][dev]
 
-[<img width="30px" height="30px" align="left" alt="marco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="Portifolio"/>][github]
+[<img width="30px" height="30px" align="left" alt="marco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="Portifolio"  target="_blank"/>][github]
 
 [linkedin]: https://www.linkedin.com/in/joel-sousa-173745179/
 [gmail]: mailto:joelfsousa95@gmail.com
