@@ -15,6 +15,6 @@
     Hello my name is Joel sousa, I'm a Fullstack developer with a focus on backend.
 
 <p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=joel-sousa&hide=contribs" /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-sousa&layout=compact" /></a>
+ <a><img src="https://github-readme-stats.vercel.app/api?username=joel-sousa&hide=contribs&locale=pt-br&show_icons=true" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-sousa&layout=compact&show_icons=true&locale=pt-br" /></a>
 </p>
