@@ -18,3 +18,8 @@
     <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-sousa&layout=compact&show_icons=true&exclude_repo=Feminicidio-JS,AdoCao-JS,SGT-JS&locale=pt-br" /></a>
  <a><img src="https://github-readme-stats.vercel.app/api?username=joel-sousa&hide=contribs&locale=pt-br&show_icons=true&rank_icon=github" /></a>
 </p>
+
+<h3>Projetos</h3>
+<ul>
+    <li><a href="https://montyhall-with-vuejs.netlify.app" target="_blank">MontyHall-Vue.js</a></li>
+</ul>
