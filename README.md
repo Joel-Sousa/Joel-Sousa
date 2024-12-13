@@ -21,5 +21,8 @@
 
 <h3>Projetos</h3>
 <ul>
+    <li><a href="https://calculadora-with-vuejs.netlify.app" target="_blank">Calculadora-Vue.js</a></li>
     <li><a href="https://montyhall-with-vuejs.netlify.app" target="_blank">MontyHall-Vue.js</a></li>
+    <li><a href="https://calculadora-with-reactjs.netlify.app" target="_blank">Calculadora-React.js</a></li>
+    <li><a href="https://flappybird-with-js.netlify.app" target="_blank">FlappyBird.js</a></li>
 </ul>
