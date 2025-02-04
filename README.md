@@ -19,7 +19,7 @@
  <a><img src="https://github-readme-stats.vercel.app/api?username=joel-sousa&hide=contribs&locale=pt-br&show_icons=true&rank_icon=github" /></a>
 </p>
 
-<h3>Projetos</h3>
+<h3>Projetos On-line</h3>
 <ul>
     <li><a href="https://tarefas-with-vuejs.netlify.app" target="_blank">Tarefas-VueJS</a></li>
     <li><a href="https://calculadora-with-vuejs.netlify.app" target="_blank">Calculadora-VueJS</a></li>
