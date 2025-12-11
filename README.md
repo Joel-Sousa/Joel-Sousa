@@ -31,6 +31,7 @@
 
 <h3>Biblioteca</h3>
 <ul>
+    <li><a href="https://packagist.org/packages/joel-sousa/mydotenv" target="_blank">DotEnv</a></li>
     <li><a href="https://www.npmjs.com/package/util-mask" target="_blank">Util-Mask</a></li>
 </ul>
 
