@@ -14,10 +14,6 @@
     /
     Hello my name is Joel sousa, I'm a Fullstack developer with a focus on backend.
 
-<p align="center"> 
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-sousa&layout=compact&show_icons=true&exclude_repo=Feminicidio-JS,AdoCao-JS,SGT-JS&locale=pt-br" /></a>
- <a><img src="https://github-readme-stats.vercel.app/api?username=joel-sousa&hide=contribs&locale=pt-br&show_icons=true&rank_icon=github" /></a>
-</p>
 
 <h3>Projetos On-line</h3>
 <ul>
@@ -29,14 +25,11 @@
     <li><a href="https://flappybird-with-js.netlify.app" target="_blank">FlappyBird.js</a></li>
 </ul>
 
-<h3>Biblioteca</h3>
+<h3>Bibliotecas</h3>
 <ul>
     <li><a href="https://packagist.org/packages/joel-sousa/mydotenv" target="_blank">DotEnv</a></li>
     <li><a href="https://www.npmjs.com/package/util-mask" target="_blank">Util-Mask</a></li>
 </ul>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joel-sousa/count.svg?"  />
-</div>
 
 
